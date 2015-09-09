@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.xellos.mysportstrack.MainActivity" >
+
+    <item
+        android:id="@+id/start"
+        android:orderInCategory="100"
+        android:showAsAction="always|collapseActionView"
+        android:title="START"/>
+    <item
+        android:id="@+id/stop"
+        android:orderInCategory="100"
+        android:showAsAction="always|collapseActionView"
+        android:title="STOP"/>
+    <item
+        android:id="@+id/history"
+        android:orderInCategory="200"
+        android:showAsAction="always|collapseActionView"
+        android:title="历史轨迹"/>
+
+</menu>
