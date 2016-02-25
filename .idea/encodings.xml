@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/xellos/mysportstrack/GlobalApp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/xellos/mysportstrack/LinesMapActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/xellos/mysportstrack/LocateController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/xellos/mysportstrack/LocationChangedObserver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/xellos/mysportstrack/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/xellos/mysportstrack/SDKReceiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/xellos/mysportstrack/Track.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/xellos/mysportstrack/TrackingService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/org/xellos/mysportstrack/WalkingPointOnMap.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
